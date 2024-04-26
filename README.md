@@ -8,7 +8,7 @@ yeque-tools这个工具很好用，我们从官方仓库下载release包解压�
 
 但是此时，导出的markdown文档中，所有图片或者附件，甚至mermaid图和latex公式（都是导出为svg图片），都是在线模式的，就是图片或者附件仍放在语雀的在线服务器上，并没有完全本地化。
 
-我从我的知识库中，找到了以下积累典型的link模式：
+我从我的知识库中，找到了以下几类典型的link模式：
 
 ```
 ![](https://cdn.nlark.com/yuque/0/2024/jpeg/793259/1711863000450-096431b9-c73c-4da2-bbb0-66d4c7e31983.jpeg?x-oss-process=image%2Fformat%2Cwebp#averageHue=%2323a7e9&from=url&id=FWZSv&originHeight=1115&originWidth=1982&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
